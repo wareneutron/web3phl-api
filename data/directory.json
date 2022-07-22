@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mock1",
+    "name": "Mock 1",
+    "verified": true,
+    "description":
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ipsam qui excepturi quam eius, ratione nulla, nesciunt quo autem consequatur rem debitis, atque adipisci saepe est sed porro? Illum, incidunt.",
+    "tags": ["nft", "defi", "gaming"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://web.facebook.com/groups/web3philippines"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/4xbJEBKWKc"
+      }
+    }
+  },
+  {
+    "id": "mock2",
+    "name": "Mock 2",
+    "verified": true,
+    "description":
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ipsam qui excepturi quam eius, ratione nulla, nesciunt quo autem consequatur rem debitis, atque adipisci saepe est sed porro? Illum, incidunt.",
+    "tags": ["defi", "p2e", "product"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://web.facebook.com/groups/web3philippines"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/4xbJEBKWKc"
+      }
+    }
+  },
+  {
+    "id": "mock3",
+    "name": "Mock 3",
+    "verified": true,
+    "description":
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ipsam qui excepturi quam eius, ratione nulla, nesciunt quo autem consequatur rem debitis, atque adipisci saepe est sed porro? Illum, incidunt.",
+    "tags": ["nft", "p2e", "product"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://web.facebook.com/groups/web3philippines"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/4xbJEBKWKc"
+      }
+    }
+  },
+  {
+    "id": "ahotdog",
+    "name": "Hotdog King",
+    "verified": true,
+    "description":
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ipsam qui excepturi quam eius, ratione nulla, nesciunt quo autem consequatur rem debitis, atque adipisci saepe est sed porro? Illum, incidunt.",
+    "tags": ["dapp"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://web.facebook.com/groups/web3philippines"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/4xbJEBKWKc"
+      }
+    }
+  }
+]
