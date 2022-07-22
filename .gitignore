@@ -1,0 +1,6 @@
+
+node_modules
+# Custom
+Session.vim
+.editorconfig
+notes
