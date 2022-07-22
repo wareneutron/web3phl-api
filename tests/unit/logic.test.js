@@ -1,5 +1,5 @@
-var { expect } = require("chai");
-var { xor } = require("../../utils/logic");
+const { expect } = require("chai");
+const { xor } = require("../../utils/logic");
 
 // logic utils tests
 

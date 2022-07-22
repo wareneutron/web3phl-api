@@ -1,9 +1,9 @@
 // express
-var express = require("express");
-var router = express.Router();
+const express = require("express");
+const router = express.Router();
 
 // custom imports
-var directoryController = require("../controllers/directoryController");
+const directoryController = require("../controllers/directoryController");
 
 /* GET directory with search */
 router.get("/", directoryController.directory_search);
